@@ -42,9 +42,12 @@
     "noImageResize": "",
     "sitemapSwitcher": "on",
     "сanonical-url": "",
-    "uniqCompNum": 14,
+    "uniqCompNum": 12,
     "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
